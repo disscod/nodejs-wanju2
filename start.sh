@@ -2,7 +2,7 @@
 
 # //隧道相关设置（去掉下面变量前面#启用，否则使用临时隧道）
 export TOK=${TOK:-'eyJhIjoiNjc0MmMxNDI5ZDE4OTA3NjMzZjMyZjQ2MWM5MzUwOWMiLCJ0IjoiZTMwYjgwMWEtZmNiZC00Njk3LWJhZGYtMDBhZmNhZDc1M2QxIiwicyI6Ik9XTTNPRFJoTmpJdE1HVTRZaTAwWkdFeExUaGtOemd0Wm1VMk1UZzFPVE5oTldZNCJ9'}  # 隧道token或json
-export ARGO_DOMAIN=${ARGO_DOMAIN:-'shier.future13800.cf'} # 隧道域名
+export ARGO_DOMAIN=${ARGO_DOMAIN:-'shiper.future13800.cf'} # 隧道域名
 
 # //哪吒相关设置
 export NEZHA_SERVER=${NEZHA_SERVER:-'nezha.babiq.eu.org'}
